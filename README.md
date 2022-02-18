@@ -1,3 +1,3 @@
 Intro
 
-This guide is dedicated to find the best settings for a specific print. Adjusting and tweeking the right settings for the more advanced filaments
+This guide is to tackle all hardware related issues with the Printer. Not all can be fixed with a software setting ;-)
